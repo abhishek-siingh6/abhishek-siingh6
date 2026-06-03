@@ -7,7 +7,7 @@ Hi there 👋, I'm Abhishek
 
 📚 Actively learning advanced machine learning, cloud computing, and SEO‑driven content strategies.
 
-💬 Ask me about Python, Django, Git/GitHub, AI workflows, Full stack development, and competitive programming.
+💬 Ask me about Python (Django, React, Next.js, Streamlit, Pandas, NumPy, Matplotlib), Git/GitHub, AI workflows, full‑stack development, and competitive programming.
 
 ⚡ Passionate about problem‑solving, automation, and creative applications of AI — from healthcare prediction systems to intelligent chatbots.
 
