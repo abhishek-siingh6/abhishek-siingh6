@@ -1,11 +1,18 @@
 Hi there 👋, I'm Abhishek
 🔭 Currently working on AI & Data Science projects during my internship at Labmentix, building creative and impactful tech.
+
 🤝 Open to collaborating on open‑source projects in AI, backend/web development, and creative tech storytelling.
+
 💡 Exploring ways to optimize copyright‑safe edits and boost discoverability across YouTube, Pinterest, and freelancing platforms.
+
 📚 Actively learning advanced machine learning, cloud computing, and SEO‑driven content strategies.
+
 💬 Ask me about Python, Django, Git/GitHub, AI workflows, backend development, and competitive programming.
+
 ⚡ Passionate about problem‑solving, automation, and creative applications of AI — from healthcare prediction systems to intelligent chatbots.
+
 🎯 Long‑term goal: to engineer scalable AI solutions that bridge technology with everyday creativity and accessibility.
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Abhishek Siingh#4996) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhishek.siingh6) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishek-siingh-aa2318233/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/siinghabhishek3) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Lower_Squash2329) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siingh.abhishek3@gmail.com) 
 
