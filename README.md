@@ -1,6 +1,6 @@
 Hi there 👋, I'm Abhishek
 🔭 Currently working on AI & Data Science projects during my internship at Labmentix,currently working on AI & Data Science projects that blend creativity with impact. I love problem‑solving, automation, and building intelligent systems — from healthcare prediction models to chatbots and creative tech workflows,building creative and impactful tech.
-🤝 Open to collaborating on open‑source projects in AI, backend/web development, and creative tech storytelling.....
+🤝 Open to collaborating on open‑source projects in AI, backend/web development, and creative tech storytelling......
 
 💡 Exploring ways to optimize copyright‑safe edits and boost discoverability across YouTube, Pinterest, and freelancing platforms.
 
